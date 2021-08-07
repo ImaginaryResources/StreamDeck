@@ -16,6 +16,9 @@ Click on the image below to watch my video showing how I made this project
 
 
 ## Images
+Substitue 11, 12, 13 for 14, 15, 16 on Pro Micro
+
+<img src="https://github.com/ImaginaryResources/StreamDeck/blob/master/Images/Wiring.png" width="500">
 <img src="https://github.com/ImaginaryResources/StreamDeck/blob/master/Images/1.jpg" width="500">
 <img src="https://github.com/ImaginaryResources/StreamDeck/blob/master/Images/2.jpg" width="500">
 <img src="https://github.com/ImaginaryResources/StreamDeck/blob/master/Images/3.jpg" width="500">
